@@ -106,7 +106,7 @@ FabricLoadTestTool/
 3. Interact with the report (switch pages, apply filters, etc.).
 4. Click **Stop** → **Export** to save a `.json` file.
 
-### Step 2 — Upload to the Lakehouse
+### Step 2 — Upload to the Lakehouse (you can see how set up a lakehouse in origin MS url available at the beginning)
 
 Upload the exported JSON file(s) to:
 
@@ -115,7 +115,7 @@ Upload the exported JSON file(s) to:
 ```
 
 Replace `<workspace_name>` with the display name of your Power BI workspace
-(e.g. `MRL GCTO POC`).
+(e.g. `Finance`).
 
 ### Step 3 — Configure RunLoadTest
 
