@@ -3,7 +3,7 @@
 A set of Microsoft Fabric notebooks that **stress-test Power BI semantic models**
 (datasets) by replaying DAX queries captured with
 [Performance Analyzer](https://learn.microsoft.com/power-bi/create-reports/desktop-performance-analyzer)
-and measuring response times under configurable concurrency.
+and measuring response times under configurable concurrency. Original MS version is available here https://github.com/microsoft/fabric-toolbox/tree/main/tools/FabricLoadTestTool
 
 ---
 
